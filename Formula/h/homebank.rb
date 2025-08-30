@@ -4,7 +4,7 @@ class Homebank < Formula
   # A mirror is used as primary URL because the official one is unstable.
   url "https://www.gethomebank.org/public/sources/homebank-5.9.4.tar.gz"
   mirror "http://homebank.free.fr/public/sources/homebank-5.9.4.tar.gz"
-  sha256 "b350edc3a6e321414e6c26f8550e2b2c130dc1fb459669556b61ffd7e8f2e380"
+  sha256 "8c442384a142f0f9f85295f6a599ecf6c20fc8a1797f177e71a3d93cfa909fbf"
   license "GPL-2.0-or-later"
 
   livecheck do
